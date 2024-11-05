@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xslt"?>
+
+<videojocs>
+  <joc>
+    <titol>The Legend of Zelda: Breath of the Wild</titol>
+    <plataforma>Nintendo Switch</plataforma>
+    <any>2017</any>
+    <genere>Acció-Aventura</genere>
+  </joc>
+  <joc>
+    <titol>Red Dead Redemption 2</titol>
+    <plataforma>PlayStation 4, Xbox One, PC</plataforma>
+    <any>2018</any>
+    <genere>Acció-Aventura, Món Obert</genere>
+  </joc>
+  <joc>
+    <titol>Minecraft</titol>
+    <plataforma>Multiplataforma</plataforma>
+    <any>2011</any>
+    <genere>Sandbox, Supervivència</genere>
+  </joc>
+</videojocs>

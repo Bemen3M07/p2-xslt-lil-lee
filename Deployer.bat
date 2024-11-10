@@ -31,7 +31,7 @@ del MockUPTest.zip
 echo Els fitxers s'han descarregat i desplegat correctament a %DEST_PATH%.
 
 echo Redefinint configuració per la correcta funcionalitat.
-cd C:\xampp\htdocs\MockUPTest
+cd C:\xampp\htdocs\MockUPTest\Deployment
 java ConfigModifier
 
 
